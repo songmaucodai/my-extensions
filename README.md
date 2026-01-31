@@ -2,7 +2,7 @@
 
   # My Extensions
 
-  **Tổng hợp các tiện ích mở rộng (Browser Extensions) phục vụ nhu cầu cá nhân của tôi.**
+  **Tổng hợp các tiện ích mở rộng (Browser Extensions) tự trồng phục vụ nhu cầu cá nhân.**
   
   [![Platform](https://img.shields.io/badge/Platform-Chrome%20|%20Edge%20|%20Brave-blue?style=flat-square)]()
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
