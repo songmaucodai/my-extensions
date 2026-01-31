@@ -17,7 +17,7 @@
 
 | Extension | Demo & Giới thiệu | Trạng thái |
 | :--- | :---: | :---: |
-| **FB Reels Overlay Hidden** | [Xem chi tiết & Tải về](./fb-reels-overlay-hidden/index.html) | 🟢 Stable |
+| **FB Reels Overlay Hidden** | [Xem chi tiết & Tải về]((https://songmaucodai.github.io/my-extensions/extensions/fb-reels-overlay-hidden/index.html) | 🟢 Stable |
 
 ---
 
