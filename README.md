@@ -11,6 +11,7 @@
 
 </div>
 
+---
 
 ## 📦 Danh sách Extensions
 
@@ -18,6 +19,7 @@
 | :--- | :---: | :---: |
 | **FB Reels Overlay Hidden** | [Xem chi tiết & Tải về](./fb-reels-overlay-hidden/index.html) | 🟢 Stable |
 
+---
 
 ## ⚙️ Hướng dẫn Cài đặt
 
@@ -26,6 +28,8 @@
 3. Giải nén file `.zip` vừa tải ra một thư mục.
 4. Mở trình duyệt (Chrome, Edge...), truy cập trang quản lý tiện ích (`chrome://extensions`).
 5. Bật **Developer Mode** -> Chọn **Load unpacked** -> Trỏ vào thư mục vừa giải nén.
+
+---
 
 <div align="center">
   Copyright (c) 2026 Songmaucodai
