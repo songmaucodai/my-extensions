@@ -28,7 +28,7 @@ Do đây là các tiện ích cá nhân chưa đăng tải lên Store, bạn c�
    - **Edge:** `edge://extensions/`
 4. Bật chế độ **Developer mode** (Chế độ dành cho nhà phát triển) ở góc phải.
 5. Bấm nút **Load unpacked** (Tải tiện ích đã giải nén).
-6. Trỏ đường dẫn vào thư mục của extension bạn muốn dùng (ví dụ: `extensions/fb-reels-overlay-hidden`).
+6. Trỏ đường dẫn vào thư mục của extension bạn vừa giải nén khi nãy (ví dụ: `fb-reels-overlay-hidden`).
 
 ---
 <div align="center">
