@@ -7,7 +7,7 @@
   [![Platform](https://img.shields.io/badge/Platform-Chrome%20|%20Edge%20|%20Brave-blue?style=flat-square)]()
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-  ### [Truy cập Kho Tiện Ích (Giao diện Web)](https://songmaucodai.github.io/my-extensions/)
+  ### [Truy cập Kho Tiện Ích](https://songmaucodai.github.io/my-extensions/)
 
 </div>
 
