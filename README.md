@@ -7,28 +7,29 @@
   [![Platform](https://img.shields.io/badge/Platform-Chrome%20|%20Edge%20|%20Brave-blue?style=flat-square)]()
   [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
+  <br>
+
+  ### [Truy cập Kho Tiện Ích (Giao diện Web)](https://songmaucodai.github.io/my-extensions/)
+
 </div>
 
 ---
 
 ## 📦 Danh sách Extensions
 
-* [**FB Reels Overlay Hidden**](./extensions/fb-reels-overlay-hidden)
+| Extension | Demo & Giới thiệu | Trạng thái |
+| :--- | :---: | :---: |
+| **FB Reels Overlay Hidden** | [Xem chi tiết & Tải về](./fb-reels-overlay-hidden/index.html) | 🟢 Stable |
 
 ---
 
 ## ⚙️ Hướng dẫn Cài đặt
 
-Do đây là các tiện ích cá nhân chưa đăng tải lên Store, bạn cần cài đặt thủ công thông qua **Developer Mode**:
-
-1. Tải toàn bộ Repo này về máy (bấm **Code** -> **Download ZIP**) và giải nén.
-2. Mở trình duyệt (Chrome, Edge, Brave...).
-3. Truy cập vào trang quản lý tiện ích:
-   - **Chrome:** `chrome://extensions/`
-   - **Edge:** `edge://extensions/`
-4. Bật chế độ **Developer mode** (Chế độ dành cho nhà phát triển) ở góc phải.
-5. Bấm nút **Load unpacked** (Tải tiện ích đã giải nén).
-6. Trỏ đường dẫn vào thư mục của extension bạn vừa giải nén khi nãy (ví dụ: `fb-reels-overlay-hidden`).
+1. Truy cập vào link giới thiệu của Extension bạn muốn dùng ở bảng trên.
+2. Nhấn nút **"Tải xuống (.zip)"** để tải file cài đặt về máy.
+3. Giải nén file `.zip` vừa tải ra một thư mục.
+4. Mở trình duyệt (Chrome, Edge...), truy cập trang quản lý tiện ích (`chrome://extensions`).
+5. Bật **Developer Mode** -> Chọn **Load unpacked** -> Trỏ vào thư mục vừa giải nén.
 
 ---
 <div align="center">
